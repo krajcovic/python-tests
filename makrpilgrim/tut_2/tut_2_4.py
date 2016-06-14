@@ -42,3 +42,12 @@ try:
 except ValueError as e:
     print(e)
     #logging.exception(e)
+
+
+print(a_list)
+del a_list[1]
+for i in range(a_list.count('new')):
+    a_list.remove('new')
+
+print(a_list)
+
