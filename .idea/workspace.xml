@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74544ffb-bc6d-4275-b4a6-627576bb8fd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slack/slacker_example.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/makrpilgrim/tut_2/tuto_2_8.py" afterPath="$PROJECT_DIR$/makrpilgrim/tut_2/tut_2_8.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tests.iml" afterPath="$PROJECT_DIR$/.idea/tests.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_5.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py" afterPath="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py" />
     </list>
     <ignored path="mark_pilgrim.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,14 +47,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tut_3_4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tut_3_4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tut_3_5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="4061" column="8" selection-start-line="4061" selection-start-column="8" selection-end-line="4061" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,26 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tut_2_6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/makrpilgrim/tut_2/tut_2_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/lib/python3.4/logging/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32382">
-              <caret line="1801" column="4" selection-start-line="1801" selection-start-column="4" selection-end-line="1801" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -165,6 +161,7 @@
         <option value="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_3.py" />
         <option value="$PROJECT_DIR$/slack/slacker_example.py" />
         <option value="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py" />
+        <option value="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_5.py" />
       </list>
     </option>
   </component>
@@ -218,38 +215,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="makrpilgrim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tut_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="makrpilgrim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -267,24 +232,7 @@
       <recent name="$PROJECT_DIR$/makrpilgrim" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tut_3_4">
-    <configuration default="false" name="tut_2_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/makrpilgrim/tut_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tests" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makrpilgrim/tut_2/tut_2_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.tut_3_5">
     <configuration default="false" name="tut_2_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,6 +298,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slack/slacker_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tut_3_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/makrpilgrim/tut_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -489,19 +454,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tut_2_5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tut_2_6" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tut_3_3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tut_3_4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.slacker_example" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tut_2_6" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tut_3_3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tut_3_4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.slacker_example" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tut_3_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tut_3_4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.slacker_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tut_3_3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tut_2_6" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tut_2_5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tut_3_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tut_3_4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.slacker_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tut_3_3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tut_2_6" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465914827412</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Slack notification">
+      <created>1466157665228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466157665228</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -598,7 +570,8 @@
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.4.1" />
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.4.4" />
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorials by mark_pilgrim - cap 2.6" />
+    <MESSAGE value="Slack notification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slack notification" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -839,13 +812,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4061" column="8" selection-start-line="4061" selection-start-column="8" selection-end-line="4061" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makrpilgrim/tut_3/tut_3_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
