@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74544ffb-bc6d-4275-b4a6-627576bb8fd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/makrpilgrim/tut_4/tut_4_3.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/makrpilgrim/tut_4/tut_4_5.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -520,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1466159957083</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added gitignore to project">
+      <created>1466163534293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1466163534293</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -573,7 +579,8 @@
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.6" />
     <MESSAGE value="Slack notification" />
     <MESSAGE value="makrpigrim - tutorial 3 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="makrpigrim - tutorial 3 done." />
+    <MESSAGE value="Added gitignore to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore to project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
