@@ -3,9 +3,10 @@
 
 import re
 
-print(re.sub('y$', 'ies', 'vacancy'))
-print(re.sub('y$', 'ies', 'agency'))
-print(re.sub('([^aeiou])y$', r'\1ies', 'vacancy'))
+def base():
+    print(re.sub('y$', 'ies', 'vacancy'))
+    print(re.sub('y$', 'ies', 'agency'))
+    print(re.sub('([^aeiou])y$', r'\1ies', 'vacancy'))
 
 
 def match_sxz(noun):
@@ -100,10 +101,11 @@ def fib(max):
         a, b = b, a + b
 
 
-for n in fib(10000):
-    print(n, end=' ')
+if __name__ == "__main__":
+    for n in fib(10000):
+        print(n, end=' ')
 
-print(end='\n')
-print(list(fib(1000)))
+    print(end='\n')
+    print(list(fib(1000)))
 
-print(plural('vacancy'))
+    # print(plural('vacancy'))
