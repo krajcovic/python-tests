@@ -51,6 +51,7 @@ class InvalidRomanNumeralError(ValueError):
 
 def to_roman_old(n):
     """
+    Obsolete
     Convert integer to Roman numeral
     :param n:
     :return:
