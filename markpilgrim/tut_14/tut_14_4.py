@@ -1,13 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+import logging
+import sys
 from http.client import HTTPConnection
 from urllib.request import urlopen
 
-import logging
 import logstash
-import sys
-from apihelper import info
 
 host = '172.22.17.1'
 

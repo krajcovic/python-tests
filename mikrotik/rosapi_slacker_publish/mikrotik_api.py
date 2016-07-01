@@ -3,6 +3,7 @@
 
 import sys, posix, time, hashlib, binascii, socket, select
 
+
 class ApiRos:
     "Routeros api"
 
@@ -168,5 +169,5 @@ if __name__ == '__main__':
 
     doctest.__test__;
     # testConvert()
-    # main(sys.argv[1], sys.argv[2], sys.argv[3])
+    main(sys.argv[1], sys.argv[2], sys.argv[3])
     # get_registered_devices(sys.argv[1], sys.argv[2], sys.argv[3])
