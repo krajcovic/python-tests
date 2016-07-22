@@ -1,0 +1,11 @@
+<h1>List of connected devices.</h1>
+{% if connected_list %}
+    <ul>
+    {% for device in connected_list %}
+        {% comment %}<li><a href="/polls/{{ question.id }}/">{{ question.question_text }}</a></li>{% endcomment %}
+        <li>{{ device.mac }}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No device are available.</p>
+{% endif %}
