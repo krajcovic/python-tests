@@ -7,104 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74544ffb-bc6d-4275-b4a6-627576bb8fd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/index.doctree" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment-bright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/down-pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/up-pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/objects.inv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/doctrees/index.doctree" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment-bright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/down-pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/up-pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/objects.inv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/environment.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/.buildinfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_sources/index.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/alabaster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/doctools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/pygments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/searchtools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/underscore-1.3.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/websupport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/genindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/searchindex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/make.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/templates/admin/base_site.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/templates/admin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/expoits/modulus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/MANIFEST.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/doctrees/environment.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/.buildinfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_sources/index.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/alabaster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/doctools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/pygments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/searchtools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/underscore-1.3.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/websupport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/genindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/searchindex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/make.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/commands/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/commands/closepoll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/0002_auto_20160721_1507.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/results.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/tests_question.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/tests_question_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/setup.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/modules/models.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_sources/modules/models.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/modules/models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/modules/models.rst" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django/mysite/polls/__init__.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/index.doctree" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/objects.inv" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/objects.inv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/mysite/settings.py" afterPath="$PROJECT_DIR$/django/mysite/mysite/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/environment.pickle" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_sources/index.txt" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_sources/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/index.html" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/searchindex.js" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/searchindex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/index.rst" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/models.py" afterPath="$PROJECT_DIR$/django/mysite/polls/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" />
@@ -199,38 +116,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/conf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packaging/django-polls/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packaging/django-polls/README.rst">
           <provider selected="true" editor-type-id="text-editor">
@@ -281,11 +166,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
               <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/mysite/polls/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="make.bat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/make.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -362,7 +277,6 @@
         <option value="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" />
         <option value="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" />
         <option value="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/models.py" />
         <option value="$PROJECT_DIR$/django/mysite/polls/admin.py" />
         <option value="$PROJECT_DIR$/django/mysite/mysite/settings.py" />
         <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/base_site.html" />
@@ -370,6 +284,7 @@
         <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/index.html" />
         <option value="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/django/mysite/polls/models.py" />
       </list>
     </option>
   </component>
@@ -484,6 +399,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="django-polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1226,7 +1207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1469524392244</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="python - packaging&#10;readthedoc (sphinx)">
+      <created>1469536588168</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1469536588168</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1280,7 +1268,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41346154" sideWeight="0.45846644" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49394417" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.43503729" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5673077" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30769232" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21192758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1310,7 +1298,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tutorials by mark_pilgrim - cap 2.4.4" />
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.6" />
     <MESSAGE value="Slack notification" />
     <MESSAGE value="makrpigrim - tutorial 3 done." />
@@ -1335,7 +1322,8 @@
     <MESSAGE value="Django views." />
     <MESSAGE value="Django static pages." />
     <MESSAGE value="Add missing files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add missing files." />
+    <MESSAGE value="python - packaging&#10;readthedoc (sphinx)" />
+    <option name="LAST_COMMIT_MESSAGE" value="python - packaging&#10;readthedoc (sphinx)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1527,16 +1515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
-          <folding>
-            <marker date="1469521761793" expanded="true" signature="139:760" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django/mysite/polls/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1635,26 +1613,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/make.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1458">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1721,6 +1683,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/make.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
