@@ -7,101 +7,140 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74544ffb-bc6d-4275-b4a6-627576bb8fd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/images/pic06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markpilgrim/tut_11/beauregard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markpilgrim/tut_11/out.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/mysite/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/mysite/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/mysite/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/mysite/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/migrations/0002_auto_20160721_1507.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/ie/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/ie/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/skel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_features.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_section.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_split.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_spotlights.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_wrapper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie8.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie9.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_intro.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_wrapper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_skel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_vars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/welcome/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/wifimonitor/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entry.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markpilgrim/tut_13/basic-bytes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markpilgrim/tut_13/basic-pretty.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markpilgrim/tut_13/basic.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mikrotik/MANIFEST" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/doctrees/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/doctrees/environment.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_sources/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/alabaster.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/jquery-1.11.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/underscore-1.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/templates/admin/base_site.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django/mysite/templates/admin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/expoits/modulus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/doctrees/environment.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_sources/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/alabaster.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/jquery-1.11.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/underscore-1.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/_build/html/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/management/commands/closepoll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/0002_auto_20160721_1507.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/templates/polls/results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/tests_question.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/tests/tests_question_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/django-polls/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/admin.py" afterPath="$PROJECT_DIR$/django/mysite/polls/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/models.py" afterPath="$PROJECT_DIR$/django/mysite/polls/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/mysite/settings.py" afterPath="$PROJECT_DIR$/django/mysite/mysite/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/main.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/skel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/util.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_box.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_button.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_features.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_features.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_icon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_image.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_section.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_section.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_split.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_split.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_spotlights.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_spotlights.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/components/_table.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie8.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/ie9.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_intro.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_intro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_sidebar.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/layout/_wrapper.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_functions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_skel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/libs/_vars.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/main.scss" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/sass/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/LICENSE.txt" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/README.txt" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" />
     </list>
     <ignored path="mark_pilgrim.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,28 +155,29 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/tests$mikrotik_api.coverage" NAME="mikrotik_api Coverage Results" MODIFIED="1467209793703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
-    <SUITE FILE_PATH="coverage/tests$mikrotik_wifi.coverage" NAME="mikrotik_wifi Coverage Results" MODIFIED="1467277797580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
     <SUITE FILE_PATH="coverage/tests$mysite_tests.coverage" NAME="mysite tests Coverage Results" MODIFIED="1469188771530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django/mysite" />
     <SUITE FILE_PATH="coverage/tests$first_exploit.coverage" NAME="first_exploit Coverage Results" MODIFIED="1467103434805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expoits" />
     <SUITE FILE_PATH="coverage/tests$tut_14_4.coverage" NAME="tut_14_4 Coverage Results" MODIFIED="1467202180316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
+    <SUITE FILE_PATH="coverage/tests$Unittests_in_setup.coverage" NAME="Unittests in setup Coverage Results" MODIFIED="1467366736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
+    <SUITE FILE_PATH="coverage/tests$tut_11_5.coverage" NAME="tut_11_5 Coverage Results" MODIFIED="1466772635246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
+    <SUITE FILE_PATH="coverage/tests$test_roman.coverage" NAME="test_roman Coverage Results" MODIFIED="1466767168780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/tests$tut_14_5.coverage" NAME="tut_14_5 Coverage Results" MODIFIED="1467205825029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
+    <SUITE FILE_PATH="coverage/tests$tut_15_3.coverage" NAME="tut_15_3 Coverage Results" MODIFIED="1467286249902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_15" />
+    <SUITE FILE_PATH="coverage/tests$tut_12_6.coverage" NAME="tut_12_6 Coverage Results" MODIFIED="1467103211573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
+    <SUITE FILE_PATH="coverage/tests$mikrotik_wifi.coverage" NAME="mikrotik_wifi Coverage Results" MODIFIED="1467277797580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
     <SUITE FILE_PATH="coverage/tests$tut_11_3.coverage" NAME="tut_11_3 Coverage Results" MODIFIED="1466771546467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$apihelper.coverage" NAME="apihelper Coverage Results" MODIFIED="1467034228820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tests$kw_args.coverage" NAME="kw_args Coverage Results" MODIFIED="1468221130444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tips" />
     <SUITE FILE_PATH="coverage/tests$tut_12_4.coverage" NAME="tut_12_4 Coverage Results" MODIFIED="1467100560373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
     <SUITE FILE_PATH="coverage/tests$tut_12_7.coverage" NAME="tut_12_7 Coverage Results" MODIFIED="1467185782727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
-    <SUITE FILE_PATH="coverage/tests$Unittests_in_setup.coverage" NAME="Unittests in setup Coverage Results" MODIFIED="1467366736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
     <SUITE FILE_PATH="coverage/tests$tut_11_2.coverage" NAME="tut_11_2 Coverage Results" MODIFIED="1466770534520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
-    <SUITE FILE_PATH="coverage/tests$tut_11_5.coverage" NAME="tut_11_5 Coverage Results" MODIFIED="1466772635246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$simple_server.coverage" NAME="simple_server Coverage Results" MODIFIED="1467370009455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_16" />
+    <SUITE FILE_PATH="coverage/tests$modulus.coverage" NAME="modulus Coverage Results" MODIFIED="1469530142540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expoits" />
     <SUITE FILE_PATH="coverage/tests$tut_14_3.coverage" NAME="tut_14_3 Coverage Results" MODIFIED="1467200548195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
     <SUITE FILE_PATH="coverage/tests$tut_14_6.coverage" NAME="tut_14_6 Coverage Results" MODIFIED="1467205833125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
     <SUITE FILE_PATH="coverage/tests$tut_13_8.coverage" NAME="tut_13_8 Coverage Results" MODIFIED="1467200360286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_13" />
-    <SUITE FILE_PATH="coverage/tests$test_roman.coverage" NAME="test_roman Coverage Results" MODIFIED="1466767168780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/tests$manage.coverage" NAME="manage Coverage Results" MODIFIED="1469012154058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django/mysite" />
-    <SUITE FILE_PATH="coverage/tests$tut_14_5.coverage" NAME="tut_14_5 Coverage Results" MODIFIED="1467205825029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
-    <SUITE FILE_PATH="coverage/tests$tut_15_3.coverage" NAME="tut_15_3 Coverage Results" MODIFIED="1467286249902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_15" />
     <SUITE FILE_PATH="coverage/tests$Unittests_in_simple_server.coverage" NAME="Unittests in simple_server Coverage Results" MODIFIED="1467369926792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_16" />
-    <SUITE FILE_PATH="coverage/tests$tut_12_6.coverage" NAME="tut_12_6 Coverage Results" MODIFIED="1467103211573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
     <SUITE FILE_PATH="coverage/tests$tut_11_4.coverage" NAME="tut_11_4 Coverage Results" MODIFIED="1466771906687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -159,28 +199,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2844">
-              <caret line="158" column="64" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/mysite/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="187" column="40" selection-start-line="187" selection-start-column="40" selection-end-line="187" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/django/mysite/manage.py">
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -189,21 +209,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/mysite/urls.py">
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="324">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/polls/admin.py">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+            <state relative-caret-position="-108">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -211,53 +231,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/polls/urls.py">
+      <file leaf-file-name="README.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/README.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="56" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/polls/models.py">
+      <file leaf-file-name="MANIFEST.in" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/MANIFEST.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
-              <folding>
-                <marker date="1469521761793" expanded="true" signature="139:760" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sites.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/django/contrib/admin/sites.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html">
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="85" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elements.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html">
+      <file leaf-file-name="dependency_links.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/dependency_links.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6066">
-              <caret line="337" column="114" selection-start-line="337" selection-start-column="114" selection-end-line="337" selection-end-column="114" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PKG-INFO" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/PKG-INFO">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top_level.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/top_level.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -281,11 +319,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/markpilgrim/tut_13/shell_2.py" />
-        <option value="$PROJECT_DIR$/markpilgrim/tut_13/shell_1.py" />
-        <option value="$PROJECT_DIR$/markpilgrim/tut_13/basic.json" />
-        <option value="$PROJECT_DIR$/markpilgrim/tut_13/tut_13_8.py" />
-        <option value="$PROJECT_DIR$/markpilgrim/tut_13/basic-bytes.json" />
         <option value="$PROJECT_DIR$/markpilgrim/tut_14/tut_14_3.py" />
         <option value="$PROJECT_DIR$/markpilgrim/tut_14/tut_14_4.py" />
         <option value="$PROJECT_DIR$/markpilgrim/tut_14/tut_14_5.py" />
@@ -332,6 +365,11 @@
         <option value="$PROJECT_DIR$/django/mysite/polls/models.py" />
         <option value="$PROJECT_DIR$/django/mysite/polls/admin.py" />
         <option value="$PROJECT_DIR$/django/mysite/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/base_site.html" />
+        <option value="$PROJECT_DIR$/expoits/modulus.py" />
+        <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/index.html" />
+        <option value="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -441,55 +479,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
+              <option name="myItemId" value="packaging" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="polls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
+              <option name="myItemId" value="django-polls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -500,7 +494,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/django/mysite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django/mysite/templates" />
     <property name="prop_add_unversioned_files" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
@@ -520,17 +514,17 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/django/mysite/polls/tests" />
-      <recent name="$PROJECT_DIR$/mikrotik/rosapi_dkr" />
-      <recent name="$PROJECT_DIR$/mikrotik" />
-      <recent name="$PROJECT_DIR$/mikrotik/api" />
-      <recent name="$PROJECT_DIR$/utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/django/mysite/welcome" />
       <recent name="$PROJECT_DIR$/django/mysite/polls/tests" />
       <recent name="$PROJECT_DIR$/markpilgrim/tut_7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django/mysite/templates" />
+      <recent name="$PROJECT_DIR$/django/mysite/polls/tests" />
+      <recent name="$PROJECT_DIR$/mikrotik/rosapi_dkr" />
+      <recent name="$PROJECT_DIR$/mikrotik" />
+      <recent name="$PROJECT_DIR$/mikrotik/api" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.mysite">
@@ -602,6 +596,24 @@
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tips/kw_args.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="modulus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/expoits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/expoits/modulus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -961,7 +973,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="9">
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Django server.mysite" />
       <item index="1" class="java.lang.String" itemvalue="Django tests.mysite tests" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.test_roman" />
@@ -971,13 +983,15 @@
       <item index="6" class="java.lang.String" itemvalue="Python.tut_15_3" />
       <item index="7" class="java.lang.String" itemvalue="Python.simple_server" />
       <item index="8" class="java.lang.String" itemvalue="Python.kw_args" />
+      <item index="9" class="java.lang.String" itemvalue="Python.modulus" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.kw_args" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simple_server" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tut_15_3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.mikrotik_wifi" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.modulus" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kw_args" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple_server" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tut_15_3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mikrotik_wifi" />
       </list>
     </recent_temporary>
   </component>
@@ -1205,7 +1219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1469192373309</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add missing files.">
+      <created>1469524392244</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1469524392244</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1254,12 +1275,12 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5628328" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.56496274" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.49574015" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41346154" sideWeight="0.45846644" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49394417" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32799146" sideWeight="0.4371672" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5673077" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.43503729" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5673077" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21192758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1289,7 +1310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tutorials by mark_pilgrim - cap 2.4.1" />
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.4.4" />
     <MESSAGE value="tutorials by mark_pilgrim - cap 2.6" />
     <MESSAGE value="Slack notification" />
@@ -1314,7 +1334,8 @@
     <MESSAGE value="tut2 - models." />
     <MESSAGE value="Django views." />
     <MESSAGE value="Django static pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django static pages." />
+    <MESSAGE value="Add missing files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add missing files." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1341,136 +1362,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3b25af70-12e9-42ac-89b1-ecb1fa197e27/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/d3ebee44/3b25af70-12e9-42ac-89b1-ecb1fa197e27/mysite.public.polls_question">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/log/mysite.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="429" column="0" selection-start-line="429" selection-start-column="0" selection-end-line="429" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/templates/polls/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/django/db/models/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="824" column="8" selection-start-line="824" selection-start-column="8" selection-end-line="824" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/templates/polls/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#44#76#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/wifimonitor/templates/wifi/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/test.py" />
     <entry file="file://$PROJECT_DIR$/django/__init__.py" />
     <entry file="file://$PROJECT_DIR$/django/mysite/__init__.py" />
     <entry file="file:///usr/lib/python3.4/datetime.py">
@@ -1485,6 +1376,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1492,6 +1384,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1388">
           <caret line="393" column="8" selection-start-line="393" selection-start-column="8" selection-end-line="393" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1515,6 +1408,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1522,6 +1418,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1529,6 +1426,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1536,6 +1434,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1543,6 +1444,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1559,6 +1461,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1616,26 +1519,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/django/contrib/admin/sites.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -1655,16 +1542,8 @@
         <state relative-caret-position="432">
           <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="187" column="40" selection-start-line="187" selection-start-column="40" selection-end-line="187" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1672,6 +1551,176 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/welcome/templates/welcome/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/templates/admin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expoits/modulus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/templates/polls/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/make.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/dependency_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/top_level.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packaging/django-polls/django_polls.egg-info/PKG-INFO">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
