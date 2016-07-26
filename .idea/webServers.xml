@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ae85f26a-9a02-4810-9200-44cd73f32022" name="rpi.krajcovic.info" url="http://krajcovic.info">
+        <fileTransfer host="krajcovic.info" port="23122" rootFolder="/home/pi" accessType="SFTP" password="dfd8dfcbdfd9dfdadfc8dfcfdfd8dfd8dfd3df98df9adf9bdf9c" username="pi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="23122" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="4043334695">
+  <component name="DataSourceManagerImpl" format="xml" hash="2556893592">
     <data-source source="LOCAL" name="Django mysite sqllite" uuid="610d0264-9b1a-4b70-b3b0-b80e881ad6c7">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
@@ -12,7 +12,7 @@
         <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
       </explain-plan-config>
     </data-source>
-    <data-source source="LOCAL" name="postgresql localhost docker" uuid="3b25af70-12e9-42ac-89b1-ecb1fa197e27">
+    <data-source source="LOCAL" name="Django default" uuid="3b25af70-12e9-42ac-89b1-ecb1fa197e27">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
@@ -22,6 +22,14 @@
       <explain-plan-config>
         <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
       </explain-plan-config>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+        </library>
+      </libraries>
     </data-source>
   </component>
 </project>
