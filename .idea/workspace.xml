@@ -7,39 +7,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74544ffb-bc6d-4275-b4a6-627576bb8fd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpytest/basic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpytest/histogram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/elementwise_operations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/fancy_indexing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/fire.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/my_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/prime_sieve.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/slicing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/quick/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/quick/facebooktest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/quick/web_spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/Books.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/Resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/dmoz_spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/fajnbrigady_spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/decoratos.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv/kanec_backup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv/rc_zlin_kanec.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ingress/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ingress/ingress.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/network/basic_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/network/basic_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/network/jbasic_02.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv/capture_video.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv/fps_measuring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv/read_image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipytest/mandelbrot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/crypto.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tests.iml" afterPath="$PROJECT_DIR$/.idea/tests.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/alabaster.css" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/alabaster.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/polls/doc/make.bat" afterPath="$PROJECT_DIR$/django/mysite/polls/doc/make.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/admin/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/django/mysite/static/admin/fonts/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/css/images/intro.svg" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/css/images/intro.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/jquery.scrollex.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/jquery.scrolly.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/main.js" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/skel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/util.js" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/js/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/base/_page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_box.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_button.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_features.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_features.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_icon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_image.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_section.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_section.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_split.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_split.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_spotlights.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_spotlights.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/components/_table.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/ie8.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/ie9.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_intro.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_intro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_sidebar.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/layout/_wrapper.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_functions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_skel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/libs/_vars.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/main.scss" afterPath="$PROJECT_DIR$/django/mysite/static/welcome/assets/sass/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/css/images/intro.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrollex.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/django/mysite/welcome/static/welcome/assets/js/jquery.scrolly.min.js" />
@@ -76,6 +96,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" afterPath="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jupyter/test01.ipynb" afterPath="$PROJECT_DIR$/jupyter/test01.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packaging/django-polls/polls/doc/make.bat" afterPath="$PROJECT_DIR$/packaging/django-polls/polls/doc/make.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapytest/tutorial/Books.html" afterPath="$PROJECT_DIR$/scrapytest/tutorial/Books.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapytest/tutorial/Resources.html" afterPath="$PROJECT_DIR$/scrapytest/tutorial/Resources.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/decoratos.py" afterPath="$PROJECT_DIR$/utils/decoratos.py" />
     </list>
     <ignored path="mark_pilgrim.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,23 +118,29 @@
     <SUITE FILE_PATH="coverage/tests$mysite_tests.coverage" NAME="mysite tests Coverage Results" MODIFIED="1469188771530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django/mysite" />
     <SUITE FILE_PATH="coverage/tests$first_exploit.coverage" NAME="first_exploit Coverage Results" MODIFIED="1467103434805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expoits" />
     <SUITE FILE_PATH="coverage/tests$tut_14_4.coverage" NAME="tut_14_4 Coverage Results" MODIFIED="1467202180316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
+    <SUITE FILE_PATH="coverage/tests$basic_01.coverage" NAME="basic_01 Coverage Results" MODIFIED="1471586735824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/tests$Unittests_in_setup.coverage" NAME="Unittests in setup Coverage Results" MODIFIED="1467366736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
     <SUITE FILE_PATH="coverage/tests$tut_11_5.coverage" NAME="tut_11_5 Coverage Results" MODIFIED="1466772635246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$basic.coverage" NAME="basic Coverage Results" MODIFIED="1469788711931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/tests$fps_measuring.coverage" NAME="fps_measuring Coverage Results" MODIFIED="1472038943219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv" />
     <SUITE FILE_PATH="coverage/tests$histogram.coverage" NAME="histogram Coverage Results" MODIFIED="1470143310074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
     <SUITE FILE_PATH="coverage/tests$test_roman.coverage" NAME="test_roman Coverage Results" MODIFIED="1466767168780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/tests$fire.coverage" NAME="fire Coverage Results" MODIFIED="1470054633729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scipytest" />
     <SUITE FILE_PATH="coverage/tests$tut_14_5.coverage" NAME="tut_14_5 Coverage Results" MODIFIED="1467205825029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
     <SUITE FILE_PATH="coverage/tests$tut_15_3.coverage" NAME="tut_15_3 Coverage Results" MODIFIED="1467286249902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_15" />
     <SUITE FILE_PATH="coverage/tests$tut_12_6.coverage" NAME="tut_12_6 Coverage Results" MODIFIED="1467103211573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
+    <SUITE FILE_PATH="coverage/tests$Doctests_in_crypto.coverage" NAME="Doctests in crypto Coverage Results" MODIFIED="1471522616488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/tests$fancy_indexing.coverage" NAME="fancy_indexing Coverage Results" MODIFIED="1470122191164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scipytest" />
     <SUITE FILE_PATH="coverage/tests$mikrotik_wifi.coverage" NAME="mikrotik_wifi Coverage Results" MODIFIED="1467277797580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mikrotik" />
+    <SUITE FILE_PATH="coverage/tests$basic_02.coverage" NAME="basic_02 Coverage Results" MODIFIED="1471949446087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/tests$tut_11_3.coverage" NAME="tut_11_3 Coverage Results" MODIFIED="1466771546467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$apihelper.coverage" NAME="apihelper Coverage Results" MODIFIED="1467034228820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tests$kw_args.coverage" NAME="kw_args Coverage Results" MODIFIED="1468221130444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tips" />
     <SUITE FILE_PATH="coverage/tests$tut_12_4.coverage" NAME="tut_12_4 Coverage Results" MODIFIED="1467100560373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
     <SUITE FILE_PATH="coverage/tests$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1470121085965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scipytest" />
     <SUITE FILE_PATH="coverage/tests$tut_12_7.coverage" NAME="tut_12_7 Coverage Results" MODIFIED="1467185782727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_12" />
+    <SUITE FILE_PATH="coverage/tests$crypto.coverage" NAME="crypto Coverage Results" MODIFIED="1471529803242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/tests$capture_video.coverage" NAME="capture_video Coverage Results" MODIFIED="1472039147723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv" />
     <SUITE FILE_PATH="coverage/tests$facebooktest.coverage" NAME="facebooktest Coverage Results" MODIFIED="1470384457858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapytest" />
     <SUITE FILE_PATH="coverage/tests$tut_11_2.coverage" NAME="tut_11_2 Coverage Results" MODIFIED="1466770534520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$simple_server.coverage" NAME="simple_server Coverage Results" MODIFIED="1467370009455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_16" />
@@ -118,7 +149,9 @@
     <SUITE FILE_PATH="coverage/tests$tut_14_6.coverage" NAME="tut_14_6 Coverage Results" MODIFIED="1467205833125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_14" />
     <SUITE FILE_PATH="coverage/tests$Doctest_foo.coverage" NAME="Doctest foo Coverage Results" MODIFIED="1470314607627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/tests$tut_13_8.coverage" NAME="tut_13_8 Coverage Results" MODIFIED="1467200360286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_13" />
+    <SUITE FILE_PATH="coverage/tests$ingress.coverage" NAME="ingress Coverage Results" MODIFIED="1470388083059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ingress" />
     <SUITE FILE_PATH="coverage/tests$manage.coverage" NAME="manage Coverage Results" MODIFIED="1469012154058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django/mysite" />
+    <SUITE FILE_PATH="coverage/tests$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1472034546115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv" />
     <SUITE FILE_PATH="coverage/tests$Unittests_in_simple_server.coverage" NAME="Unittests in simple_server Coverage Results" MODIFIED="1467369926792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_16" />
     <SUITE FILE_PATH="coverage/tests$tut_11_4.coverage" NAME="tut_11_4 Coverage Results" MODIFIED="1466771906687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markpilgrim/tut_11" />
     <SUITE FILE_PATH="coverage/tests$prime_sieve.coverage" NAME="prime_sieve Coverage Results" MODIFIED="1470121803544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scipytest" />
@@ -144,105 +177,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fajnbrigady_spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/fajnbrigady_spider.py">
+      <file leaf-file-name="read_image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opencv/read_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="8" />
               <folding>
-                <element signature="e#44#57#0" expanded="true" />
+                <element signature="e#44#62#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/pipelines.py">
+      <file leaf-file-name="capture_video.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/opencv/capture_video.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1514">
-              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#192#203#0" expanded="true" />
+                <element signature="e#44#62#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/python-tests/src/facebook-sdk/facebook/__init__.py">
+      <file leaf-file-name="fps_measuring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opencv/fps_measuring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="282" column="8" selection-start-line="282" selection-start-column="8" selection-end-line="282" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/Resources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1620">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="74" column="41" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="facebooktest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/quick/facebooktest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decoratos.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/utils/decoratos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stackoverflow_spider.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="9" column="103" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/__init__.py">
+        <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1316268009/cv2/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="179">
+              <caret line="2297" column="4" selection-start-line="2297" selection-start-column="4" selection-end-line="2297" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -253,9 +226,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Setup Script" />
         <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -266,18 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django/mysite/welcome/views.py" />
-        <option value="$PROJECT_DIR$/django/mysite/welcome/urls.py" />
-        <option value="$PROJECT_DIR$/django/mysite/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/generic.html" />
-        <option value="$PROJECT_DIR$/django/mysite/welcome/templates/welcome/elements.html" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/admin.py" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/base_site.html" />
-        <option value="$PROJECT_DIR$/expoits/modulus.py" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/templates/admin/index.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/models.py" />
-        <option value="$PROJECT_DIR$/django/mysite/polls/doc/make.bat" />
         <option value="$PROJECT_DIR$/django/mysite/polls/doc/conf.py" />
         <option value="$PROJECT_DIR$/utils/nginx_test.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
@@ -312,11 +273,23 @@
         <option value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/items.py" />
         <option value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/dmoz_spider.py" />
         <option value="$PROJECT_DIR$/scrapytest/tutorial/dmoz.json" />
-        <option value="$PROJECT_DIR$/utils/decoratos.py" />
         <option value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/settings.py" />
         <option value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapytest/quick/facebooktest.py" />
         <option value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/fajnbrigady_spider.py" />
+        <option value="$PROJECT_DIR$/utils/decoratos.py" />
+        <option value="$PROJECT_DIR$/ingress/ingress.py" />
+        <option value="$PROJECT_DIR$/scipytest/mandelbrot.py" />
+        <option value="$PROJECT_DIR$/utils/crypto.py" />
+        <option value="$PROJECT_DIR$/network/basic_01.py" />
+        <option value="$PROJECT_DIR$/network/basic_02.py" />
+        <option value="$PROJECT_DIR$/jbasic_02.ipynb" />
+        <option value="$PROJECT_DIR$/jupyter/test01.ipynb" />
+        <option value="$PROJECT_DIR$/network/jbasic_02.ipynb" />
+        <option value="$PROJECT_DIR$/opencv/opencv_install.sh" />
+        <option value="$PROJECT_DIR$/opencv/read_image.py" />
+        <option value="$PROJECT_DIR$/opencv/fps_measuring.py" />
+        <option value="$PROJECT_DIR$/opencv/capture_video.py" />
       </list>
     </option>
   </component>
@@ -327,9 +300,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
-    <option name="width" value="1926" />
-    <option name="height" value="1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -396,7 +368,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -415,15 +386,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="prop_add_unversioned_files" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
@@ -445,11 +431,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/network" />
       <recent name="$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders" />
       <recent name="$PROJECT_DIR$/scrapytest/quick" />
       <recent name="$PROJECT_DIR$/django/mysite/templates" />
       <recent name="$PROJECT_DIR$/django/mysite/polls/tests" />
-      <recent name="$PROJECT_DIR$/mikrotik/rosapi_dkr" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/django/mysite/welcome" />
@@ -457,97 +443,95 @@
       <recent name="$PROJECT_DIR$/markpilgrim/tut_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.facebooktest">
-    <configuration default="false" name="prime_sieve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.capture_video">
+    <configuration default="false" name="read_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scipytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scipytest/prime_sieve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/read_image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="fancy_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="basic_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scipytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scipytest/fancy_indexing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/basic_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="facebooktest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="basic_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapytest/quick/facebooktest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/basic_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="capture_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpytest/histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/capture_video.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Doctest foo" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="fps_measuring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/decoratos.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="foo" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/fps_measuring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -911,19 +895,19 @@
       <item index="2" class="java.lang.String" itemvalue="Python tests.test_roman" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.tut_8_1_py_tests" />
       <item index="4" class="java.lang.String" itemvalue="Python tests.tut_8_1_doctest" />
-      <item index="5" class="java.lang.String" itemvalue="Python.prime_sieve" />
-      <item index="6" class="java.lang.String" itemvalue="Python.fancy_indexing" />
-      <item index="7" class="java.lang.String" itemvalue="Python.facebooktest" />
-      <item index="8" class="java.lang.String" itemvalue="Python.histogram" />
-      <item index="9" class="java.lang.String" itemvalue="Python tests.Doctest foo" />
+      <item index="5" class="java.lang.String" itemvalue="Python.read_image" />
+      <item index="6" class="java.lang.String" itemvalue="Python.basic_01" />
+      <item index="7" class="java.lang.String" itemvalue="Python.basic_02" />
+      <item index="8" class="java.lang.String" itemvalue="Python.capture_video" />
+      <item index="9" class="java.lang.String" itemvalue="Python.fps_measuring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.facebooktest" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Doctest foo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.histogram" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fancy_indexing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.prime_sieve" />
+        <item index="0" class="java.lang.String" itemvalue="Python.capture_video" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fps_measuring" />
+        <item index="2" class="java.lang.String" itemvalue="Python.read_image" />
+        <item index="3" class="java.lang.String" itemvalue="Python.basic_02" />
+        <item index="4" class="java.lang.String" itemvalue="Python.basic_01" />
       </list>
     </recent_temporary>
   </component>
@@ -1186,39 +1170,46 @@
       <option name="project" value="LOCAL" />
       <updated>1469712944693</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="scrapy">
+      <created>1470384909920</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1470384909920</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctest_foo - 2016.08.04 at 10h 05m 56s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 42m 24s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_foo - 2016.08.04 at 10h 06m 12s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 42m 28s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_foo - 2016.08.04 at 10h 06m 16s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 46m 03s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_foo - 2016.08.04 at 14h 28m 58s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 46m 11s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_foo - 2016.08.04 at 14h 32m 26s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 48m 54s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_foo - 2016.08.04 at 14h 43m 27s.xml">
-      <configuration name="Doctest foo" configurationId="tests" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 13h 52m 01s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="mysite_tests - 2016.07.22 at 13h 52m 56s.xml">
-      <configuration name="mysite tests" configurationId="DjangoTestsConfigurationType" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 14h 07m 23s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="mysite_tests - 2016.07.22 at 13h 53m 12s.xml">
-      <configuration name="mysite tests" configurationId="DjangoTestsConfigurationType" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 14h 07m 48s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="mysite_tests - 2016.07.22 at 13h 53m 22s.xml">
-      <configuration name="mysite tests" configurationId="DjangoTestsConfigurationType" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 14h 16m 41s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
-    <history-entry file="mysite_tests - 2016.07.22 at 13h 59m 34s.xml">
-      <configuration name="mysite tests" configurationId="DjangoTestsConfigurationType" />
+    <history-entry file="Doctests_in_crypto - 2016.08.18 at 14h 16m 56s.xml">
+      <configuration name="Doctests in crypto" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -1231,30 +1222,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1926" height="1057" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1055" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2366453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41346154" sideWeight="0.5537806" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.49574015" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41346154" sideWeight="0.44621938" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49394417" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39423078" sideWeight="0.43503729" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2948718" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22470714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49815693" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41283423" sideWeight="0.44621938" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.49394417" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39251336" sideWeight="0.43503729" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30053475" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985043" sideWeight="0.485623" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32513368" sideWeight="0.485623" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957264" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.49574015" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49815693" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1270,7 +1261,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makrpigrim - tutorial 3 done." />
     <MESSAGE value="Added gitignore to project" />
     <MESSAGE value="mark pigrim tut 4 (strings)" />
     <MESSAGE value="mark pigrim tut 5 (regex)" />
@@ -1295,7 +1285,8 @@
     <MESSAGE value="python - packaging&#10;readthedoc (sphinx)" />
     <MESSAGE value="Update" />
     <MESSAGE value="ucgwi - personal page." />
-    <option name="LAST_COMMIT_MESSAGE" value="ucgwi - personal page." />
+    <MESSAGE value="scrapy" />
+    <option name="LAST_COMMIT_MESSAGE" value="scrapy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1320,6 +1311,36 @@
           <line>11</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ingress/ingress.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/opencv/read_image.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/crypto.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/crypto.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/crypto.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/network/basic_01.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1328,285 +1349,17 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="40" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="host" language="Python" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/numpy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/numpy/random/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/numpy/random/mtrand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="1552" column="4" selection-start-line="1552" selection-start-column="4" selection-end-line="1552" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numpytest/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/my_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1096">
-          <caret line="3005" column="14" selection-start-line="3005" selection-start-column="14" selection-end-line="3005" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/matplotlib/colors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="494" column="65" selection-start-line="494" selection-start-column="65" selection-end-line="494" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/matplotlib/cm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1906">
-          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/matplotlib/dates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/fire.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="1085" column="24" selection-start-line="1085" selection-start-column="24" selection-end-line="1085" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/slicing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/prime_sieve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/fancy_indexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/doc/_build/html/_static/alabaster.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="1496" column="56" selection-start-line="1496" selection-start-column="56" selection-end-line="1496" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipytest/elementwise_operations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/fajnbrigady-last.json" />
-    <entry file="file://$PROJECT_DIR$/scrapytest/top-stackoverflow-questions.json" />
-    <entry file="file://$PROJECT_DIR$/scrapytest/web_spider_titles.json" />
-    <entry file="file://$PROJECT_DIR$/scrapytest/quick/web_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numpytest/histogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/parsel/selector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="217" column="8" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/quick/fajnbrigady_spider.json" />
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/scrapy/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/mysite/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="2465" column="30" selection-start-line="2465" selection-start-column="30" selection-end-line="2465" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/spiders/dmoz_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="e#44#57#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/items.jl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/dmoz.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/items.jl" />
+    <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/dmoz.json" />
     <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/Books.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1614,7 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1620">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1622,7 +1374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1630,31 +1381,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/src/facebook-sdk/facebook/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="282" column="8" selection-start-line="282" selection-start-column="8" selection-end-line="282" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.4/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/src/facebook-sdk/facebook/__init__.py" />
     <entry file="file://$PROJECT_DIR$/scrapytest/tutorial/tutorial/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="74" column="41" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1662,9 +1396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1514">
           <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding>
-            <element signature="e#192#203#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1672,15 +1403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1688,17 +1410,208 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#44#57#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapytest/quick/stackoverflow_spider.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/decoratos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="711">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.4/http/cookiejar.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/robobrowser/ordereddict.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/robobrowser/__init__.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/mechanize/_request.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/mechanize/__init__.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/robobrowser/browser.py" />
+    <entry file="file://$PROJECT_DIR$/scipytest/mandelbrot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingress/ingress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#44#78#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/rc_zlin_kanec.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/kanec_backup.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1247972723/cv2/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/numpy/core/multiarray.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/python-tests/lib/python3.4/site-packages/numpy/random/__init__.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/docrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.4/base64.py" />
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_16/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_5/tut_5_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_3/tut_3_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5444">
+          <caret line="315" column="55" selection-start-line="315" selection-start-column="53" selection-end-line="315" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_4/tut_4_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_4/tut_4_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_5/tut_5_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markpilgrim/tut_5/tut_5_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/builtins.py" />
+    <entry file="file:///usr/lib/python3.4/codecs.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1104201107/numpy/core/umath.py" />
+    <entry file="file://$PROJECT_DIR$/utils/crypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
+          <folding>
+            <element signature="e#44#57#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/basic_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jupyter/test01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/basic_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/jbasic_02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/opencv_install.sh" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/read_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1316268009/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="2297" column="4" selection-start-line="2297" selection-start-column="4" selection-end-line="2297" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/fps_measuring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="103" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/capture_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

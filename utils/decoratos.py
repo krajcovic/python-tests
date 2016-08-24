@@ -45,14 +45,14 @@ if __name__ == '__main__':
     import doctest
 
     doctest.testmod()
-    debuginfo('Ahoj normal')
+    debuginfo('normal')
 
     print = dekorator_debug(print)
 
-    print('Ahoj dekorator false')
+    print('dekorator false')
     debug = True
     debuginfo('Ahoj normal')
-    print('Ahoj dekorator true')
+    print('dekorator true')
 
     a = Test()
     print(a.instance_method())
